@@ -8,9 +8,8 @@
 </br>
 
 # Voting-Service
-Online Voting Service Providing Live Stats Per Reload
+Online Voting Service Providing Live Stats Per Reload Using MongoDB and Mongoosejs
 
- - MongoDB
- - Mongoosejs
+
 </div>
 
