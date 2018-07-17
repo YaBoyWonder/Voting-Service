@@ -9,5 +9,8 @@
 
 # Voting-Service
 Online Voting Service Providing Live Stats Per Reload
+
+ - MongoDB
+ - Mongoosejs
 </div>
 
