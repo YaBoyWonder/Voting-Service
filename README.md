@@ -8,7 +8,7 @@
 </br>
 
 # Voting-Service
-Online Voting Service Providing Live Stats Per Reload Using MongoDB and Mongoosejs
+Online Voting Service Providing Live Stats Per Reload Using <a href="https://www.mongodb.com">MongoDB</a> and <a href="http://mongoosejs.com">MongooseJS</a>
 
 
 </div>
